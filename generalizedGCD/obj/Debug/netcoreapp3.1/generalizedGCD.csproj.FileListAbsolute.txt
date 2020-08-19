@@ -1,0 +1,13 @@
+D:\GitHub\ProjetosCSharp\generalizedGCD\generalizedGCD\bin\Debug\netcoreapp3.1\generalizedGCD.exe
+D:\GitHub\ProjetosCSharp\generalizedGCD\generalizedGCD\bin\Debug\netcoreapp3.1\generalizedGCD.deps.json
+D:\GitHub\ProjetosCSharp\generalizedGCD\generalizedGCD\bin\Debug\netcoreapp3.1\generalizedGCD.runtimeconfig.json
+D:\GitHub\ProjetosCSharp\generalizedGCD\generalizedGCD\bin\Debug\netcoreapp3.1\generalizedGCD.runtimeconfig.dev.json
+D:\GitHub\ProjetosCSharp\generalizedGCD\generalizedGCD\bin\Debug\netcoreapp3.1\generalizedGCD.dll
+D:\GitHub\ProjetosCSharp\generalizedGCD\generalizedGCD\bin\Debug\netcoreapp3.1\generalizedGCD.pdb
+D:\GitHub\ProjetosCSharp\generalizedGCD\generalizedGCD\obj\Debug\netcoreapp3.1\generalizedGCD.csprojAssemblyReference.cache
+D:\GitHub\ProjetosCSharp\generalizedGCD\generalizedGCD\obj\Debug\netcoreapp3.1\generalizedGCD.AssemblyInfoInputs.cache
+D:\GitHub\ProjetosCSharp\generalizedGCD\generalizedGCD\obj\Debug\netcoreapp3.1\generalizedGCD.AssemblyInfo.cs
+D:\GitHub\ProjetosCSharp\generalizedGCD\generalizedGCD\obj\Debug\netcoreapp3.1\generalizedGCD.csproj.CoreCompileInputs.cache
+D:\GitHub\ProjetosCSharp\generalizedGCD\generalizedGCD\obj\Debug\netcoreapp3.1\generalizedGCD.dll
+D:\GitHub\ProjetosCSharp\generalizedGCD\generalizedGCD\obj\Debug\netcoreapp3.1\generalizedGCD.pdb
+D:\GitHub\ProjetosCSharp\generalizedGCD\generalizedGCD\obj\Debug\netcoreapp3.1\generalizedGCD.genruntimeconfig.cache
